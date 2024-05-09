@@ -1,5 +1,5 @@
 node_modules
-.env
+gh .env
 *.log
 *.png
 *_sessions
